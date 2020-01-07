@@ -1,15 +1,15 @@
 
-# My-Portfolio
-RFID Parking Tags
+# My-Portfolio:
 
-# Project Overview
-This is a my portfoilio website that I created to showcase some of my old and recent projects and my skillset 
 
-# Programmer
+# Project Overview:
+This is a my portfoilio website that I created to showcase some of my old and recent projects and my skillsets 
+
+# Programmer:
 1.	Austin Lomax
 
-# Quick Setup Instructions
-
+# Issues: 
+The "Send message" function is still under development at the moment.
 
 # Links:
 Source Code: https://github.com/AustinL3860/My-Portfolio</br>
